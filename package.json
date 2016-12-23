@@ -1,6 +1,6 @@
 {
   "name": "stylized-json",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Format and style a json object to display it in HTML",
   "main": "index.js",
   "scripts": {
