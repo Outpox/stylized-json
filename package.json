@@ -1,0 +1,18 @@
+{
+  "name": "stylized-json",
+  "version": "1.0.0",
+  "description": "Format and style a json object to display it in HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "html",
+    "style",
+    "css",
+    "parse"
+  ],
+  "author": "",
+  "license": "MIT"
+}
